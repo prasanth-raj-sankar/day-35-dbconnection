@@ -1,0 +1,22 @@
+{
+  "name": "day-35-dbconnection",
+  "version": "1.0.0",
+  "description": "db connections",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "connections"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.1",
+    "uuid": "^10.0.0"
+  }
+}
